@@ -1,0 +1,20 @@
+﻿Сборка начата 03.04.2016 23:10:50.
+     1>Проект "c:\Users\Панкрат\documents\visual studio 2015\Projects\laba 3.st\laba 3.st\laba 3.st.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         D:\vs\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yc"stdafx.h" /Fp"Debug\laba 3.st.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         D:\vs\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Debug\laba 3.st.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt "laba 3.st.cpp"
+         laba 3.st.cpp
+     1>c:\users\панкрат\documents\visual studio 2015\projects\laba 3.st\laba 3.st\laba 3.st.cpp(3): warning C4603: WIN32_LEAN_AND_MEAN: макрос не определен или определение изменилось после использования предкомпилированного заголовка
+         c:\users\панкрат\documents\visual studio 2015\projects\laba 3.st\laba 3.st\laba 3.st.cpp(3): note: Добавление макроопределения в предкомпилированный заголовок вместо определения его здесь
+         c:\users\панкрат\documents\visual studio 2015\projects\laba 3.st\laba 3.st\laba 3.st.cpp(4): note: использование предварительно скомпилированного заголовка
+     1>c:\users\панкрат\documents\visual studio 2015\projects\laba 3.st\laba 3.st\laba 3.st.cpp(98): warning C4101: l: неиспользованная локальная переменная
+       Link:
+         D:\vs\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\панкрат\documents\visual studio 2015\Projects\laba 3.st\Debug\laba 3.st.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"c:\users\панкрат\documents\visual studio 2015\Projects\laba 3.st\Debug\laba 3.st.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\панкрат\documents\visual studio 2015\Projects\laba 3.st\Debug\laba 3.st.lib" /MACHINE:X86 "Debug\laba 3.st.obj"
+         Debug\stdafx.obj
+         laba 3.st.vcxproj -> c:\users\панкрат\documents\visual studio 2015\Projects\laba 3.st\Debug\laba 3.st.exe
+     1>Сборка проекта "c:\Users\Панкрат\documents\visual studio 2015\Projects\laba 3.st\laba 3.st\laba 3.st.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:02.28
